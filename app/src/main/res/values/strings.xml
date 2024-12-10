@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HomeHaven</string>
+    <string name="HomeHaven">House plan</string>
+    <string name="Add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="formtitle">Title</string>
+    <string name="Description">Chore Description </string>
+    <string name="Frequencyyy">Frequency</string>
+    <string name="Time">Due Date/Time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="Notification">Reminder Notification</string>
+    <string name="list">Reminder List</string>
+    <string name="DailyWork">Daily Work Reminders</string>
+    <string name="WeeklyWork">Weekly Work Reminders</string>
+    <string name="MonthlyWork">Monthly Work Reminders</string>
+    <string name="PersonalWork">Personal Work Development</string>
+    <string name="RecurringWork">Recurring Work Reminders</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="sign">Sign in</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+</resources>
+
